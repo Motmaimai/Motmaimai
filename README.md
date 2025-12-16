@@ -102,7 +102,7 @@ Một số project tập trung vào:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Motmaimai&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Motmaimai&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
