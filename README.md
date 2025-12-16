@@ -65,10 +65,10 @@ Xin chào! Mình là **Motmaimai** – một developer trẻ, yêu thích việc
 ### 🗄 Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-- **SQL / MySQL** – Quan hệ, dữ liệu chuẩn
+- **SQL / MySQL / POSTGRES** – Quan hệ, dữ liệu chuẩn
 - **MongoDB** – NoSQL, dữ liệu linh hoạt
 
 ---
@@ -93,7 +93,6 @@ Một số project tập trung vào:
 - ⚙️ Backend system
 - 🌐 Web application
 - 🧪 Experiment & learning projects
-
 ---
 
 ## 📊 GitHub Stats
