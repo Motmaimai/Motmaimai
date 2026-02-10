@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Motmaimai 🚀
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C74C&width=435&lines=I+am+an+active+programmer.;I+enjoy+discovering+new+things.;Besides+coding%2C+I+really+enjoy+exploring+the+world.;Hello+world+!!" alt="Typing SVG" />
+</div>
+
+<div align="center">
 
 ✨ **Young Developer · Creative Mind · Code Enthusiast** ✨  
 
@@ -116,8 +120,13 @@ Một số project tập trung vào:
 ---
 
 <div align="center">
+  
+  **Thanks for visiting my profile! Have a great day! 🌟**
+  
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+</div>
 
-✨ *Thanks for visiting my GitHub!* ✨  
-💙 Nếu bạn thấy thú vị, đừng ngại **follow** hoặc **star project** nhé!
-
+<div align="center">
+  💙 Nếu bạn thấy thú vị, đừng ngại **follow** hoặc **star project** nhé!
 </div>
