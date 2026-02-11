@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Motmaimai 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=center&pause=1000&color=F7C74C&center=true&vCenter=true&width=600&lines=I+am+an+active+programmer.;I+enjoy+discovering+new+things.;Besides+coding%2C+I+really+enjoy+exploring+the+world.;Hello+world+!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=center&pause=1000&color=F7C74C&center=true&vCenter=true&width=800&lines=I+am+an+active+programmer.;I+enjoy+discovering+new+things.;Besides+coding%2C+I+really+enjoy+exploring+the+world.;Hello+world+!!" alt="Typing SVG" />
 </div>
 
 <div align="center">
