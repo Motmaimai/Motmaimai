@@ -27,6 +27,18 @@ Xin chào! Mình là **Motmaimai** – một developer trẻ, yêu thích việc
 
 ---
 
+## 📞 Contact
+
+<p align="center">
+  📱 0981772022 <br/>
+  🌐 <a href="https://vietnamcong.com">vietnamcong.com</a> |
+  <a href="https://promptagents.vn">promptagents.vn</a> |
+  <a href="https://chocong.vn">chocong.vn</a> <br/>
+  📧 vietnamcong.it@gmail.com
+</p>
+
+---
+
 ## 🛠 Tech Stack & Skills
 
 ### 💻 Programming Languages
