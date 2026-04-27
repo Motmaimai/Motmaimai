@@ -31,9 +31,10 @@ Xin chào! Mình là **Motmaimai** – một developer trẻ, yêu thích việc
 
 <p align="center">
   📱 0981772022 <br/>
-  🌐 <a href="https://vietnamcong.com">vietnamcong.com</a> |
-  <a href="https://promptagents.vn">promptagents.vn</a> |
-  <a href="https://chocong.vn">chocong.vn</a> <br/>
+  🌐 
+  <a href="https://vietnamcong.com" target="_blank" rel="noopener noreferrer">vietnamcong.com</a> |
+  <a href="https://promptagents.vn" target="_blank" rel="noopener noreferrer">promptagents.vn</a> |
+  <a href="https://chocong.vn" target="_blank" rel="noopener noreferrer">chocong.vn</a> <br/>
   📧 vietnamcong.it@gmail.com
 </p>
 
